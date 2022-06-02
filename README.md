@@ -140,3 +140,11 @@ If you think this work is useful for your research, please cite the following pa
   year={2022}
 }
 ```
+
+### License
+
+The MC-Blur dataset is released under CC BY-NC-ND license.
+
+
+
+
