@@ -69,7 +69,7 @@ The images of the dataset can be downloaded from the links below.
 |[Restormer](https://github.com/swz30/Restormer)|30.41|0.9106|26.10 M|
 |[MIMO-UNet](https://github.com/chosj95/mimo-unet)|32.02|0.9285|6.81 M|
 
-### Results for 500-fps images on RHM Set 
+### Results for 500-fps images from RHM Set 
 
 |Method|PSNR|SSIM|Parameter|
 |-|-|-|-|
@@ -83,7 +83,7 @@ The images of the dataset can be downloaded from the links below.
 |[Restormer](https://github.com/swz30/Restormer)|30.98|0.9160|26.10 M|
 |[MIMO-UNet](https://github.com/chosj95/mimo-unet)|32.89|0.9398|6.81 M|
 
-### Results for 1000-fps images on RHM Set
+### Results for 1000-fps images from RHM Set
 
 |Method|PSNR|SSIM|Parameter|
 |-|-|-|-|
