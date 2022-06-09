@@ -143,7 +143,7 @@ If you think this work is useful for your research, please cite the following pa
 
 ### License
 
-The MC-Blur dataset is released under CC BY-NC-ND license.
+The MC-Blur dataset is released under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 
 
