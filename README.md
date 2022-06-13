@@ -136,7 +136,7 @@ If you think this work is useful for your research, please cite the following pa
 @inproceedings{zhang2021benchmarking,
   title={MC-Blur: A Comprehensive Benchmark for Image Deblurring},
   author={Zhang, Kaihao and Wang, Tao and Luo, Wenhan and Chen, Boheng and Ren, Wenqi and Stenger, Bjorn and Liu, Wei and Li, Hongdong and Yang Ming-Hsuan},
-  booktitle={Arxiv},
+  booktitle={arXiv:2112.00234},
   year={2022}
 }
 ```
