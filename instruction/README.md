@@ -22,7 +22,7 @@ RHM subset (87500 blurry / 87500 sharp)
 
 2. Sharp images
 
-![](../examples/sharp_RHM.png)
+![](../examples/Sharp_RHM.png)
 
 ## UHDM subet
 This subset consists of 10000 pairs UHD blury and sharp images. The dataset is arranged in the structure as follows:
