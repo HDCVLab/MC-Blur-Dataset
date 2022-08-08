@@ -40,7 +40,7 @@ python download_data.py --data "UHDM_train_test"
 ```
 ## Some visual examples of MC-Blur Dataset
 
-[Visual examples](instruction/README.md) for each subet of MC-Blur Dataset.
+[Visual examples](instruction/README.md) for each subset of our MC-Blur Dataset.
 
 ## Benchmarking Study
 
