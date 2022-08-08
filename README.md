@@ -28,7 +28,7 @@ The images of the dataset can be downloaded from the links below.
 - [LSD](https://pan.baidu.com/s/10-kLWGKJZQ5TQH5vUMcsyA) (34G total data) (password:sbtu)
 - [RMBQ](https://pan.baidu.com/s/1_0drJkbIJ6X_GBseybHpeA) (110G total data) (password:nwq8)
 
-### Download MC-Blur benchmark for the script, run
+### Download MC-Blur benchmark from the script, run
 
 ```
 python download_data.py
