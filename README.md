@@ -33,7 +33,7 @@ The images of the dataset can be downloaded from the links below.
 ```
 python download_data.py
 ```
-**Note:** The above script will download all subset of the MC-Blur. You can use "--data" to select. 
+**Note:** The above script will download all subsets of the MC-Blur. You can use "--data" to select. 
 For example:
 ```
 python download_data.py --data "UHDM_train_test"
