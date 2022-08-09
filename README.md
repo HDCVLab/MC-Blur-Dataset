@@ -42,6 +42,10 @@ python download_data.py --data "UHDM_train_test"
 
 [Visual examples](instruction/README.md) for each subset of our MC-Blur Dataset.
 
+## Some code steps in synthesizing dataset
+
+See detail in [README](core_step_instruction/README.md).
+
 ## Benchmarking Study
 
 ## Methods
