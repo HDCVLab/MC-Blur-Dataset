@@ -8,7 +8,7 @@ images with larger kernels [2]. We show some code in the following.
 
 
 
-## Some steps for synthesizing RHM and UHDM dataset
+## Some steps for synthesizing RHM and UHDM datasets
 
 ## RHM
 - Random select number of successive frames in the sharp video sequences (9-13 for 250 fps set, 19-25 for 500 fps set and 31-51 for 1000 fps set).
