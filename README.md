@@ -14,9 +14,9 @@ We construct a large-scale multi-cause (MC-Blur) dataset for image deblurring.  
 The images of the dataset can be downloaded from the links below. 
 
 ### Google Drive
-[//]: #- [RHM-250](https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing) (6.2G for test)
-[//]: #- [RHM-500](https://drive.google.com/file/d/13payJmIY6mssFXMSuOwf1aosA3n6bXb6/view?usp=sharing)  (7.1G for test)
-[//]: #- [RHM-1000](https://drive.google.com/file/d/1HJqV6Ogve-G6YGYJDH7MD5nKAQOTnVMG/view?usp=sharing)  (9.3G for test)
+<!-- - [RHM-250](https://drive.google.com/file/d/1hoCFNeP1GOszaJfLABBw35hCQQKWPMhV/view?usp=sharing) (6.2G for test)  -->
+<!-- - [RHM-500](https://drive.google.com/file/d/13payJmIY6mssFXMSuOwf1aosA3n6bXb6/view?usp=sharing)  (7.1G for test)  -->
+<!-- - [RHM-1000](https://drive.google.com/file/d/1HJqV6Ogve-G6YGYJDH7MD5nKAQOTnVMG/view?usp=sharing)  (9.3G for test)  -->
 - [RHM-250-500-1000](https://drive.google.com/file/d/1V9Ac0Bw9wdoo50y8JM0F4VVh1jNGTP6m/view?usp=sharing) (117G total data) 
 - [UHDM](https://drive.google.com/file/d/1qToTBej21VC7n49L_36FjmuQisjM3xPf/view?usp=sharing) (278G total data) 
 - [LSD](https://drive.google.com/file/d/19C56VIxChcvcCylKpAlK1pqYo16c0D_k/view?usp=sharing) (34G total data)
