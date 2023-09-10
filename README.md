@@ -151,11 +151,11 @@ See detail in [README](core_step_instruction/README.md).
 If you think this work is useful for your research, please cite the following paper.
 
 ```
-@inproceedings{zhang2021benchmarking,
+@inproceedings{zhang2023benchmarking,
   title={MC-Blur: A Comprehensive Benchmark for Image Deblurring},
   author={Zhang, Kaihao and Wang, Tao and Luo, Wenhan and Chen, Boheng and Ren, Wenqi and Stenger, Bjorn and Liu, Wei and Li, Hongdong and Yang Ming-Hsuan},
-  booktitle={arXiv:2112.00234},
-  year={2022}
+  booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023}
 }
 ```
 
