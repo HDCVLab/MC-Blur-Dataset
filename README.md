@@ -25,10 +25,8 @@ The images of the dataset can be downloaded from the links below.
 ### Baidu Cloud [(How to unzip?)](https://askubuntu.com/questions/31298/how-to-extract-and-join-files-xxx-zip-xxx-z01-and-xxx-z02)
 - [RHM-250-500-1000](https://pan.baidu.com/s/18iwSYoERjPSLARlhxpbVzg) (117G total data) (password:ohzp)
 - [UHDM](https://pan.baidu.com/s/1pG9kAo4v9n5LTMvmLpjZZg) (278G total data) (password:p78n)
-- [LSD](https://pan.baidu.com/s/10-kLWGKJZQ5TQH5vUMcsyA) (34G total data) (password:sbtu)
+- [LSD](https://pan.baidu.com/s/10-kLWGKJZQ5TQH5vUMcsyA) (34G total data) (password:sbtu) (Different from the TCSVT paper, the training set actually has 4,500 sharp–blurry pairs, the test set has 1,100 pairs, and the minimum resolution is 1,800 × 1,200. Please use this as the correct information)
 - [RMBQ](https://pan.baidu.com/s/1_0drJkbIJ6X_GBseybHpeA) (110G total data) (password:nwq8)
-
-Note: LSD, Different from the TCSVT paper, the training set actually has 4,500 sharp–blurry pairs, the test set has 1,100 pairs, and the minimum resolution is 1,800 × 1,200. Please use this as the correct information
 ### Download MC-Blur benchmark from the script, run
 
 ```
