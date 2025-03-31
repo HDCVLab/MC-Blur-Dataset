@@ -28,6 +28,7 @@ The images of the dataset can be downloaded from the links below.
 - [LSD](https://pan.baidu.com/s/10-kLWGKJZQ5TQH5vUMcsyA) (34G total data) (password:sbtu)
 - [RMBQ](https://pan.baidu.com/s/1_0drJkbIJ6X_GBseybHpeA) (110G total data) (password:nwq8)
 
+Note: LSD, Different from the TCSVT paper, the training set actually has 4,500 sharp–blurry pairs, the test set has 1,100 pairs, and the minimum resolution is 1,800 × 1,200. Please use this as the correct information
 ### Download MC-Blur benchmark from the script, run
 
 ```
